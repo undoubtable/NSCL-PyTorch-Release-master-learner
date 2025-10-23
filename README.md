@@ -1,3 +1,7 @@
+# 注意：本仓库用于学习参考
+
+> 本仓库为他人开源项目的拷贝/镜像，作者为原始论文与代码的维护者。此处仅用于个人学习与研究之目的，并非原作者的官方发布。更多详情与原始项目请见： http://nscl.csail.mit.edu/
+
 # NSCL-PyTorch-Release
 Pytorch implementation for the Neuro-Symbolic Concept Learner (NS-CL).
 
